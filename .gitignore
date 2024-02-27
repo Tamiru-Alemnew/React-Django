@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
